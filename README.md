@@ -71,9 +71,9 @@ Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
 
 ## Free WiFi
 
-Sign up an account from [TPE-Free](https://www.tpe-free.tw/tpe/tpe_step1_en.aspx). Most of the public places (shopping mall, library and Metro stations) have TPE-Free.
+Sign up an account from [TPE-Free](https://www.tpe-free.tw/tpe/tpe_step1_en.aspx). Most of the public places (shopping mall, library and Metro stations) have TPE-Free. You'll need to enter a mobile phone number and get a confirmation code via SMS in order to set up your TPE-Free account.
 
-And also, you can use [iTaiwan](https://itaiwan.gov.tw/en/index.php). It will be available at some public places like post office or local government.
+And also, you can use [iTaiwan](https://itaiwan.gov.tw/en/index.php). It will be available at some public places like post office or local government. If you're not a Taiwanese citizen, you can sign up at their [Traveler's Registration Page](http://itaiwan.taiwan.net.tw/FitTravelRegister.aspx) with your passport number. 
 
 ## Tipping
 
@@ -81,7 +81,7 @@ No need to tip.
 
 ## Communication
 
-Chinese & English, most of people will help you anyway.
+Mandarin Chinese & English, though even if your Chinese is very limited, most people will help you anyway.
 
 ## Getting Around
 
