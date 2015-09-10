@@ -73,7 +73,7 @@ Type [A][a-plug], [B][b-plug] (110V, 60 Hz).
 
 Sign up an account from [TPE-Free](https://www.tpe-free.tw/tpe/tpe_step1_en.aspx). Most of the public places (shopping mall, library and Metro stations) have TPE-Free. You'll need to enter a mobile phone number and get a confirmation code via SMS in order to set up your TPE-Free account.
 
-And also, you can use [iTaiwan](https://itaiwan.gov.tw/en/index.php). It will be available at some public places like post office or local government. If you're not a Taiwanese citizen, you can sign up at their [Traveler's Registration Page](http://itaiwan.taiwan.net.tw/FitTravelRegister.aspx) with your passport number. 
+And also, you can use [iTaiwan](https://itaiwan.gov.tw/en/index.php). It will be available at some public places like post office or local government. If you're not a Taiwanese citizen, you can sign up at their [Traveler's Registration Page](http://itaiwan.taiwan.net.tw/FitTravelRegister.aspx) with your passport number. Other signup methods available at their [Foreigner FAQ](https://itaiwan.gov.tw/en/faq.php#foreigner).
 
 ## Tipping
 
